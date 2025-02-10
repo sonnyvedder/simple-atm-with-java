@@ -1,1 +1,1 @@
-This project is create ATM flow using java
+This project is create simple ATM flow using java
